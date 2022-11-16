@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0/README.md#описание-проекта)
+[1. Описание проекта](https://github.com/Lev-Tegai/sf_data_science/blob/main/project_0/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)\
 [2. Какой кейс решаем?](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)\
 [3. Краткая информация о данных](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)\
 [4. Этапы работы над проектом](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)\
