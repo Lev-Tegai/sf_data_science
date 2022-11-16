@@ -27,7 +27,7 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_1#оглавление)
 
 ### Этапы работы над проектом
 1. Изучение задания
