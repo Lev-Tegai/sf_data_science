@@ -37,21 +37,25 @@ AREAS
 
 Таблица-справочник, которая хранит код города и его название.
 
-[Таблица AREAS](https://lms.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_3.png)
+<left> <img src = https://lms.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_3.png
+alt="drawing" style="width:400px;">
 
 
 EMPLOYERS
 
 Таблица-справочник со списком работодателей.
 
-[Таблица EMPLOYERS](https://lms.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_4.png)
+<left> <img src = https://lms.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_4.png
+alt="drawing" style="width:400px;">
 
 
 INDUSTRIES
 
 Таблица-справочник вариантов сфер деятельности работодателей.
 
-[Таблица INDUSTRIES](https://lms.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_5.png)
+<left> <img src = https://lms.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_5.png
+alt="drawing" style="width:400px;">
+
 
 EMPLOYERS_INDUSTRIES
 
@@ -59,7 +63,8 @@ EMPLOYERS_INDUSTRIES
 
 Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их). Для удобства анализа необходимо хранить запись по каждой сфере каждого работодателя в отдельной строке таблицы.
 
-[Таблица EMPLOYERS_INDUSTRIES](https://lms.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_6.png)
+<left> <img src = https://lms.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_6.png
+alt="drawing" style="width:400px;">
 
 
 :arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#оглавление)
