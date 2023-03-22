@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#описание-проекта)\
 [2. Задача](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#задача)\
-[3. Краткая информация о данных](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#краткая-информация-о-данных)\
+[3. Краткая информация о данных](https://github.com/Lev-Tegai/sf_data_science/tree/main/project_0#краткая-информация-о-данных)
 
 ### Описание проекта
 Анализ данных для подбора вакансий для DS-cпециалистов
