@@ -27,15 +27,17 @@ VACANCIES
 
 Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:
 
-[Таблица VACANCIES](https://lms.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_2.png)
+[Таблица VACANCIES](\vacancies.png)
 
 Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли). Соискателям она показывает, в каком диапазоне компания готова платить сотруднику на этой должности.
+
 
 AREAS
 
 Таблица-справочник, которая хранит код города и его название.
 
 [Таблица AREAS](https://lms.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/SQL_pj2_2_3.png)
+
 
 EMPLOYERS
 
