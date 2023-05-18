@@ -44,6 +44,10 @@
 
 <br/>
 
+Ноутбук проекта можно скачать [здесь](https://drive.google.com/drive/folders/1WwxpKLVudWdEUVvIMJCabPCMQaEUT6MN?usp=share_link)
+
+<br/>
+
 :arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 <br/>
