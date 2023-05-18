@@ -3,7 +3,8 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)\
 [2. Задача](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)\
-[3. Краткая информация о данных](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая информация о данных](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)\
+[4. Ссылка на ноутбук](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-1/README.md#%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C)
 
 <br/>
 
@@ -44,7 +45,7 @@
 
 <br/>
 
-### Ноутбук проекта можно скачать [здесь]([https://drive.google.com/drive/folders/1WwxpKLVudWdEUVvIMJCabPCMQaEUT6MN?usp=share_link](https://drive.google.com/file/d/1I2NZab0PzvuVvoTUah5Lco7BcrUwpXJn/view?usp=share_link))
+### Ноутбук проекта можно скачать ### [здесь]([https://drive.google.com/drive/folders/1WwxpKLVudWdEUVvIMJCabPCMQaEUT6MN?usp=share_link](https://drive.google.com/file/d/1I2NZab0PzvuVvoTUah5Lco7BcrUwpXJn/view?usp=share_link))
 
 <br/>
 
