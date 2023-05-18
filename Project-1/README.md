@@ -45,7 +45,7 @@
 
 <br/>
 
-### [Ноутбук проекта можно скачать здесь](https://drive.google.com/file/d/1I2NZab0PzvuVvoTUah5Lco7BcrUwpXJn/view?usp=share_link)
+### Ноутбук проекта можно скачать [здесь](https://drive.google.com/file/d/1I2NZab0PzvuVvoTUah5Lco7BcrUwpXJn/view?usp=share_link)
 
 <br/>
 
