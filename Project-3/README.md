@@ -37,7 +37,7 @@
 **Ссылка на ноутбук в Kaggle:** https://www.kaggle.com/code/levtegai/project-3-eda-fe 
 
 
-:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/SkillFactory/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/blob/main/Project-3/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по этому проекту покажется Вам интересной или полезной, я буду очень благодарен, если Вы отметите репозиторий и профиль ⭐️⭐️⭐️-дами
