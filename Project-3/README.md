@@ -36,7 +36,7 @@
 
    
 ### Ссылки на ноутбук:
-- GitHub: 
+- GitHub: https://github.com/Lev-Tegai/sf_data_science/edit/main/Project-3/project-3-eda-fe.ipynb
 - Kaggle: https://www.kaggle.com/code/levtegai/project-3-eda-fe/notebook 
 
 
