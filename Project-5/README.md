@@ -47,7 +47,7 @@
 - [GitHub](Project-5.ipynb)
 
 
-:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/Project-5#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/Project-5#оглавление)
 
 
 Если информация по этому проекту покажется Вам интересной или полезной, я буду очень благоарен, если Вы отметите репозиторий и профиль ⭐️⭐️⭐️-дами
