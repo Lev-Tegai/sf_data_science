@@ -44,7 +44,7 @@
 
    
 ### Ссылки на ноутбук:
-- [GitHub](Project-5.ipynb)
+- [GitHub](https://github.com/Lev-Tegai/sf_data_science/tree/main/Project-5/Project-5.ipynb)
 
 
 :arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/Project-5#оглавление)
