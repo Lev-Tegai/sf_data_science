@@ -40,7 +40,7 @@
 
    
 ### Ссылки на ноутбук:
-- [GitHub](Project-4.ipynb)
+- [GitHub](Project-4/Project_4_Classification.ipynb)
 
 
 :arrow_up:[к оглавлению](https://github.com/Lev-Tegai/sf_data_science/tree/main/Project-4#оглавление)
